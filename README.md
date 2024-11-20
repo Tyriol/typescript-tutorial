@@ -15,11 +15,11 @@ You love JavaScript, and you've heard of this thing called TypeScript and that l
   - [Primitives](#primitives)
   - [Functions](#functions)
   - [Interfaces](#interfaces)
-  - [Classes????](#classes)
+  - [Classes (coming soon)](#classes)
   - [Generics](#generics)
 - [Turning TypeScript into JavaScript](#turning-typescript-into-javascript)
-- [Resources??](#resources)
-- [Summary??](#summary)
+- [Resources](#resources)
+- [Summary](#summary)
 
 <!-- TOC end -->
 
@@ -217,7 +217,7 @@ Generics give you a lot of flexibility without sacrificing type safety and makes
 As mentioned somewhere far above, you need to `transpile` TypeScript into JavaScript for it to be used.
 
 If you're using `Node` you will need to add the `typescript` package and run the `tsc` compiler tool
-However frameworks like `Vite` and `Next` does the compilation for your transparently in the background, so no extra legwork required.
+However frameworks like `Vite` and `Next` do the compilation for your transparently in the background, so no extra legwork required.
 
 ## Resources
 
